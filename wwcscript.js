@@ -7,7 +7,7 @@ function mOut(obj){
 function mOver(obj){
 
 	obj.style.backgroundColor = 'black'
-	obj.style.border = '1px inset white'
+	obj.style.border = '3px inset white'
 	obj.innerHTML = "'When a controversial guru builds a utopian city in the Oregon desert, it causes a massive conflict with local ranchers. This docuseries chronicles the conflict, which leads to the first bioterror attack in the United States and a massive case of illegal wiretapping. It is a pivotal, but largely forgotten, time in American cultural history that tested the country's tolerance for the separation of church and state. Brothers Mark and Jay Duplass serve as executive producers on the series.'"
 }
 
