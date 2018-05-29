@@ -29,7 +29,9 @@ youtube.onclick = function() {
         + "?autoplay=1&autohide=1&border=0&wmode=opaque&enablejsapi=1");
 
 	iframe.style.width = this.style.width;
-	iframe.style.height = this.style.height; 
+	iframe.style.height = this.style.height;
+	iframe.style.display = 'block';
+	iframe.style.margin = 'auto'; 
 
 
 
