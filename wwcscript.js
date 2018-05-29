@@ -1,6 +1,6 @@
 function mOut(obj){
 	obj.innerHTML = "What is 'Wild Wild Country' about?"
-	obj.style.backgroundColor = 'grey'
+	obj.style.backgroundColor = 'silver'
 	obj.style.border = 'none'
 }
 
